@@ -1,19 +1,19 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "architecture": {
       "64bit": {
-          "url": "https://github.com/toss/apps-in-toss-ax/releases/download/v0.6.0/ax_windows_amd64.tar.gz",
+          "url": "https://github.com/toss/apps-in-toss-ax/releases/download/v0.7.0/ax_windows_amd64.tar.gz",
           "bin": [
               "ax.exe"
           ],
-          "hash": "68d11df558864d8e3867d783cb68afd743bc47481b8996f22f453041b8380f8a"
+          "hash": "82e97af1c6ce4cabfc8d61ed554bdbf14647bfffd8a158394ac6129a453bad41"
       },
       "arm64": {
-          "url": "https://github.com/toss/apps-in-toss-ax/releases/download/v0.6.0/ax_windows_arm64.tar.gz",
+          "url": "https://github.com/toss/apps-in-toss-ax/releases/download/v0.7.0/ax_windows_arm64.tar.gz",
           "bin": [
               "ax.exe"
           ],
-          "hash": "a1b73f8e356b02a38f1cbc37fbc5d1abaef33b2e429750cf2dfe0a1bc1500a26"
+          "hash": "a29921dceb12c743977e928162e1020c3506a966e9c57762a36609e2960209b4"
       }
   },
   "homepage": "https://toss.im",
